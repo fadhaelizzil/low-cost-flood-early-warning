@@ -59,7 +59,7 @@ The system operates on three distinct use-case scenarios to ensure maximum relia
 ### Installation & Deployment
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/low-cost-flood-early-warning.git](https://github.com/YOUR_USERNAME/low-cost-flood-early-warning.git)
+   git clone [https://github.com/lizzihaq/low-cost-flood-early-warning.git](https://github.com/lizzihaq/low-cost-flood-early-warning.git)
 2. Open the .ino file in /src using Arduino IDE.
 3. Replace the placeholder credentials with your actual Wi-Fi SSID, Password, and IFTTT Webhook Key:
    const char* ssid = "YOUR_WIFI_SSID";
