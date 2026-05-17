@@ -8,7 +8,7 @@
 </p>
 
 ## 🏆 Achievement
-* **Silver Medal** at an International STEM/Engineering Competition (November 2024).
+* **Silver Medal** at an International Science and Invention Fair (November 2024).
 * **Project Leader:** Muhammad Fadhael Izzil Haq.
 
 ## 📝 Overview
