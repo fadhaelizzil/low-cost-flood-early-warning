@@ -73,8 +73,8 @@ The system operates on three distinct use-case scenarios to ensure maximum relia
    git clone [https://github.com/fadhaelizzil/low-cost-flood-early-warning.git](https://github.com/fadhaelizzil/low-cost-flood-early-warning.git)
 2. Open the .ino file in /src using Arduino IDE.
 3. Replace the placeholder credentials with your actual Wi-Fi SSID, Password, and IFTTT Webhook Key:
-   const char* ssid = "YOUR_WIFI_SSID";
-   const char* password = "YOUR_WIFI_PASSWORD";
-   const char* ifttt_key = "YOUR_IFTTT_WEBHOOK_KEY";
+   * const char* ssid = "YOUR_WIFI_SSID";
+   * const char* password = "YOUR_WIFI_PASSWORD";
+   * const char* ifttt_key = "YOUR_IFTTT_WEBHOOK_KEY";
 4. Flash the code onto your NodeMCU.
 5. Assemble the hardware circuit as documented in the /hardware directory.
