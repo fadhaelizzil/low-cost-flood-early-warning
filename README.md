@@ -36,6 +36,15 @@ The system operates on three distinct use-case scenarios to ensure maximum relia
 | **2. Heavy Rain** | ❌ NO | ✅ YES | **NO ALARM** | System ignores surface wetness. |
 | **3. Actual Flood** | ✅ YES | ✅ YES | 🚨 **ALARM** | **Buzzer ON** + Sends IFTTT mobile notification. |
 
+![Use-Case Scenarios](images/scenarios.png)
+
+![IFTTT Alert](images/notification.png)
+
+---
+
+### System Flowchart
+![System Flowchart](images/flowchart.png)
+
 ---
 
 ## 🔌 Hardware Components
@@ -45,6 +54,8 @@ The system operates on three distinct use-case scenarios to ensure maximum relia
   * Resistance-based Water Level Sensor (Detects accumulation)
 * **Alerts:** Piezo Buzzer (31Hz local audio alert)
 * **Power Supply:** 3.7V Lithium Battery boosted to 5V via a Battery Shield
+
+![Hardware Prototype](images/hardware.JPG)
 
 ---
 
@@ -67,19 +78,3 @@ The system operates on three distinct use-case scenarios to ensure maximum relia
    const char* ifttt_key = "YOUR_IFTTT_WEBHOOK_KEY";
 4. Flash the code onto your NodeMCU.
 5. Assemble the hardware circuit as documented in the /hardware directory.
-
----
-
-## 📸 Media & Documentation
-
-* **System Flowchart:**
-  ![System Flowchart](images/flowchart.png)
-
-* **Use-Case Scenarios:**
-  ![Use-Case Scenarios](images/scenarios.png)
-
-* **Hardware Prototype:**
-  ![Hardware Prototype](images/hardware.JPG)
-
-* **Real-time Mobile Notification:**
-  ![IFTTT Alert](images/notification.png)
