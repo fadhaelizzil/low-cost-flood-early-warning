@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Hardware-NodeMCU%20%7C%20ESP8266-blue?style=for-the-badge&logo=espressif" alt="Hardware">
   <img src="https://img.shields.io/badge/Software-Arduino%20IDE%20%7C%20IFTTT-orange?style=for-the-badge&logo=arduino" alt="Software">
-  <img src="https://img.shields.io/badge/Award-Silver%20Medal%20(International)-gold?style=for-the-badge" alt="Award">
+  <img src="https://img.shields.io/badge/Award-Silver%20Medal%20(International)-white?style=for-the-badge" alt="Award">
   <img src="https://img.shields.io/badge/Cost-~Rp150k%20($10%20USD)-green?style=for-the-badge" alt="Cost">
 </p>
 
